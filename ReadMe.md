@@ -1,0 +1,1 @@
+This script consumes the AwesomeAPI and returns the currency quote selected by the user in relation to the Brazilian real
